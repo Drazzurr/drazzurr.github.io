@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.drazzurr.twa",
+        "sha256_cert_fingerprints": ["E8:30:C2:8C:47:4E:DB:EC:CF:F6:8E:AE:AD:F5:35:9A:7A:F5:1A:8B:EC:34:62:34:E4:0F:BF:ED:A7:CD:AC:24"]
+      }
+    }]
