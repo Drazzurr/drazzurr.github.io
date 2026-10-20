@@ -3,6 +3,9 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.drazzurr.twa",
-        "sha256_cert_fingerprints": ["E8:30:C2:8C:47:4E:DB:EC:CF:F6:8E:AE:AD:F5:35:9A:7A:F5:1A:8B:EC:34:62:34:E4:0F:BF:ED:A7:CD:AC:24"]
+        "sha256_cert_fingerprints": [
+          "E8:30:C2:8C:47:4E:DB:EC:CF:F6:8E:AE:AD:F5:35:9A:7A:F5:1A:8B:EC:34:62:34:E4:0F:BF:ED:A7:CD:AC:24",
+          "BA:FE:F5:31:5F:A5:5A:BB:F6:F4:45:38:A8:50:A5:CD:ED:3B:10:FE:CB:70:B3:E1:51:46:63:B7:3E:29:BF:D0"
+        ]
       }
     }]
